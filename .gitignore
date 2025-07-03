@@ -1,4 +1,7 @@
 venv/
 /__pycahce__/
+job-app-tracker/
 .env
 .idea
+.db
+
